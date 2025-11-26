@@ -43,7 +43,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,vue,nuxt,tailwind,java,linux,nodejs,php,express,mysql&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,vue,nuxt,tailwind,java,linux,nodejs,php,express,lua,mysql&perline=7)](https://skillicons.dev)
 
 <br />
 
