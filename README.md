@@ -50,7 +50,7 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Matkolit&rank_icon=github&custom_title=Only%20Github%20Stats&show_icons=true&include_all_commits=true&theme=calm)](https://github-stats-extended.vercel.app/api?username=Matkolit&rank_icon=github&custom_title=Only%20Github%20Stats&show_icons=true&include_all_commits=true&theme=calm)
 
  
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Matkolit&hide_progress=true&langs_count=6&hide_values=true&theme=calm&hide=html,scss,javascript,kit,css)](https://github-stats-extended.vercel.app/api/top-langs?username=Matkolit&hide_progress=true&langs_count=6&hide_values=true&theme=calm)
  
 
 
