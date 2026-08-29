@@ -47,9 +47,6 @@
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matkolit&layout=compact&hide=css,html,scss,kit,makefile)
-
-
 
 
 
