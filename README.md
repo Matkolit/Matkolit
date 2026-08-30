@@ -13,8 +13,6 @@
  
  
 
-<br />
-
 <a href="https://github.com/Matkolit/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Matkolit&style=for-the-badge&color=blueviolet">
 </a>
@@ -26,7 +24,6 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
    
-<br /> 
 
 <h3 align="left">Connect with me:</h3>
 
@@ -37,8 +34,6 @@
 </a>
 </br>
 
-
-</br>
 
 <h3 align="left">Languages and Tools:</h3>
 
